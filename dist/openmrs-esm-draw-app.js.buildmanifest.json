@@ -5,9 +5,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 209395,
+      "size": 226366,
       "sizes": {
-        "javascript": 164947,
+        "javascript": 181918,
         "share-init": 126,
         "runtime": 44322
       },
@@ -24,7 +24,7 @@
       "auxiliaryFiles": [
         "openmrs-esm-draw-app.js.map"
       ],
-      "hash": "44fbd0178cbd7402",
+      "hash": "3cc3dd47a07f2b5c",
       "childrenByOrder": {}
     },
     {
@@ -32,9 +32,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 210439,
+      "size": 227410,
       "sizes": {
-        "javascript": 165634,
+        "javascript": 182605,
         "consume-shared": 42,
         "share-init": 126,
         "runtime": 44637
@@ -52,7 +52,7 @@
       "auxiliaryFiles": [
         "main.js.map"
       ],
-      "hash": "a5497f01b80d2bb9",
+      "hash": "60043cb05402d86c",
       "childrenByOrder": {}
     },
     {
@@ -77,7 +77,7 @@
       "auxiliaryFiles": [
         "node_modules_moment_locale_sync_recursive_-src_draw-page_component_tsx-webpack_sharing_consum-486f21.js.map"
       ],
-      "hash": "0cde82e34f80a4da",
+      "hash": "a29d2c3e5981c110",
       "childrenByOrder": {}
     },
     {
@@ -101,7 +101,7 @@
       "auxiliaryFiles": [
         "src_index_ts.js.map"
       ],
-      "hash": "19e134a6aae3fae6",
+      "hash": "cc4e594e87b1b996",
       "childrenByOrder": {}
     },
     {
@@ -132,9 +132,9 @@
       "entry": false,
       "recorded": false,
       "reason": "split chunk (cache group: defaultVendors)",
-      "size": 4572301,
+      "size": 4566854,
       "sizes": {
-        "javascript": 4572301
+        "javascript": 4566854
       },
       "names": [],
       "idHints": [
@@ -150,7 +150,7 @@
       "auxiliaryFiles": [
         "vendors-node_modules_moment_locale_af_js-node_modules_moment_locale_ar-dz_js-node_modules_mom-7ffacf.js.map"
       ],
-      "hash": "9064d6a7b889f817",
+      "hash": "924a56b147218f84",
       "childrenByOrder": {}
     },
     {
@@ -159,9 +159,9 @@
       "entry": false,
       "recorded": false,
       "reason": "split chunk (cache group: defaultVendors)",
-      "size": 1427492,
+      "size": 1427430,
       "sizes": {
-        "javascript": 1427492
+        "javascript": 1427430
       },
       "names": [],
       "idHints": [
@@ -177,7 +177,7 @@
       "auxiliaryFiles": [
         "vendors-node_modules_openmrs_esm-framework_src_internal_ts.js.map"
       ],
-      "hash": "aabb2a91ecb20e17",
+      "hash": "c78a2d00adb56a14",
       "childrenByOrder": {}
     },
     {
@@ -252,7 +252,7 @@
       ],
       "files": [],
       "auxiliaryFiles": [],
-      "hash": "5c5825094c3fa334",
+      "hash": "6292085e55793e27",
       "childrenByOrder": {}
     }
   ]
